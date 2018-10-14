@@ -1,0 +1,33 @@
+20180901
+interest rate:5
+new account,John Cuttering,jcut,2000
+jcut,deposit,300
+new account,Mary Smith,msmi,3000,1000
+jcut,withdraw,2500
+msmi,withdraw,3500
+jcut,deposit,400
+20180902
+interest rate:4
+new account,James Cut,jcut,1000
+jcut,deposit,500
+msmi,withdraw,300
+new account,Mark Grant,mgra,5000
+mgra,withdraw,4000
+new account,Li Chen,lche,4800
+jcut,deposit,10000
+lche,deposit,2390000
+20180903
+interest rate:4.1
+lche,withdraw,300000
+new account,Kate Person,kper,45000,10000
+kper,withdraw,30000
+jcut,deposit,1500
+20180904
+interest rate:3.9
+kper,withdraw,20000
+20180905
+interest rate:3.9
+kper,withdraw,5000
+20180906
+interest rate:3.8
+kper,deposit,1000000
